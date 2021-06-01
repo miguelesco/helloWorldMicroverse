@@ -11,7 +11,7 @@ Additional description about the project and its features.
 ## Built With
 
 - Major languages
-    -HTML && Css
+    HTML && Css
 - Frameworks
 - Technologies used
     HTML && Css
@@ -25,15 +25,9 @@ Additional description about the project and its features.
 
 ### Usage
 
--open the terminal
--git clone <repo's link here>
--open index.html file in the browser
-
-### Run tests
-
-### Deployment
-
-
+-Open the terminal
+-Git clone <repo's link here>
+-Open index.html file in the browser
 
 ## Authors
 
