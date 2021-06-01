@@ -23,16 +23,11 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-
-### Prerequisites
-
-### Setup
-
-### Install
-
 ### Usage
 
-Open the index.html in the browser
+open the terminal
+git clone <repo's link here>
+open index.html file in the browser
 
 ### Run tests
 
