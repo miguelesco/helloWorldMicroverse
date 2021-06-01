@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > One paragraph statement about the project.
 
@@ -11,8 +11,10 @@ Additional description about the project and its features.
 ## Built With
 
 - Major languages
+    HTML && Css
 - Frameworks
 - Technologies used
+    HTML && Css
 
 ## Live Demo
 
@@ -35,6 +37,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
+Open the index.html in the browser
+
 ### Run tests
 
 ### Deployment
@@ -45,15 +49,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@miguelesco](https://github.com/miguelesco)
+- Twitter: [@miguelescorched](https://twitter.com/miguelescorched)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/miguelangel-escorche-delgado-9a2956163/)
 
 ## 🤝 Contributing
 
